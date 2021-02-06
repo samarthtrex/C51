@@ -1,0 +1,30 @@
+
+h1 {
+    color: #0d6868;
+    
+}
+
+.header{
+    background-color: #428ECC;
+    display:flex ;
+    justify-content: space-between;
+}
+
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.socialMediaHandles{
+    display:flex;
+    justify-content: center;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #808080;
+}
